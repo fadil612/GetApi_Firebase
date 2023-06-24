@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855220710737",
+    "project_id": "getapi-firebase",
+    "storage_bucket": "getapi-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855220710737:android:81901e3dbab7fe9d7ab770",
+        "android_client_info": {
+          "package_name": "com.example.getapi_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855220710737-gkr9p3nr83cms59gqlditlmd7giqhibd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6YTrlZLTjNekn8_bRu0FbzU7rz_1XByc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855220710737-gkr9p3nr83cms59gqlditlmd7giqhibd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
